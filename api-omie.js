@@ -21,7 +21,6 @@ async function getPost() {
       }),
     }
   );
-
   console.log(resp.json());
-  
+
 }
